@@ -1,0 +1,12 @@
+init properties:
+Opening Browse:chrome
+Navigate to URL:https://www.amazon.in
+select option:searchDropdownBox
+type text:twotabsearchtextbox
+search://*[@id="nav-search-submit-button"]
+init properties:
+Opening Browse:chrome
+Navigate to URL:https://www.amazon.in
+select option:searchDropdownBox
+type text:twotabsearchtextbox
+search://*[@id="nav-search-submit-button"]
